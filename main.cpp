@@ -10,5 +10,11 @@ int main (){
     
     cout << " *** " << secretNumber << " ***" << endl;
 
+    int chute;
+    cout << "Qual seu chute?" << endl;
+    cin >> chute;
+    cout << "seu chute é : " << chute << endl;
+
+
 }
 
